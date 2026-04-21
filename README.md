@@ -17,6 +17,7 @@
 Так как модель хранится через Git LFS, клонировать нужно с подгрузкой больших файлов:
 ```bash
 git lfs clone https://github.com/Lynastra/Yandex-final-project-on-ML.git
+```
 
 ## Технологии
 
